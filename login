@@ -27,7 +27,7 @@ body {
 } 
 
 .login-container h2 {
- margin-bottom: 20px;
+ margin-bottom: 30px;
  text-tranform: uppercase;
  letter-spacing: 3px;
  color: #007bff;
