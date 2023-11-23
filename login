@@ -14,7 +14,7 @@ body {
     height: 100vh;
     display: flex; 
     allign-items: center;
-    justify-contenet: center;
+    justify-contenet: right;
 }
 
 .login-container {
